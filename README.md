@@ -23,14 +23,6 @@ The project includes several key components:
 - Evaluation: The trained models are evaluated using various metrics, such as precision, recall, AUC, and F1 score.
 - Fraud detection: The system applies the trained model to new, unseen data to identify potential fraudulent transactions.
 
-## Installation
-
-To install and set up the AI-Based Fraud Detection project, follow these steps:
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/Tek-nr/AI-Based-Fraud-Detection.git
 
 ## Dataset
 
