@@ -8,9 +8,7 @@ This project aims to develop an AI-based system for fraud detection. The system 
 - [Installation](#installation)
 - [Datasets](#dataset)
 - [Algorithms](#algorithms)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Description
 
@@ -50,17 +48,6 @@ Within the scope of the project, the most used machine learning and deep learnin
 | LGBMClassifier          | Autoencoder                   |
 
 
-## Usage
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/YourUsername/YourRepository.git
-   
-2. Navigate to the project directory:
-   ```shell
-   cd YourRepository
-
 4. Access the datasets by referring to their respective links provided in the table above.
 5. Download the datasets and place them in the appropriate directory within your project.
 6. Use the datasets in your machine learning or data analysis tasks as needed.
@@ -69,9 +56,6 @@ Within the scope of the project, the most used machine learning and deep learnin
 9. If you perform any preprocessing or modifications to the datasets, clearly document the changes made in your project's documentation or README file.
 10. Ensure compliance with any licensing or usage restrictions associated with the datasets.
 
-## Contributing
-
-Contributions to this repository are welcome! If you have any additional datasets or improvements to the existing datasets, feel free to submit a pull request.
 
 ## License
 
